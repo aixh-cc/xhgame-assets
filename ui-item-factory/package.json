@@ -1,0 +1,23 @@
+{
+  "name": "@aixh-asset/ui-item-factory",
+  "version": "1.0.1",
+  "description": "xhgame资源包",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "assets/"
+  ],
+  "keywords": [],
+  "author": "aixh-cc",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aixh-cc/xhgame-asset.git"
+  }
+}
